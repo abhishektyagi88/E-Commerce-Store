@@ -1,4 +1,4 @@
-# E-Commerce-Store
+# E-Commerce Store
 # Developed an E-commerce shopping virtual store using JS,ReactJs,Redux,Tailwind CSS and embedded with API's accessed from FakeStoreAPI.
 > * Built a dynamic and state-managed web application with a modern UI framework using JS, React, Redux, Tailwind CSS.
 > * Achieved a responsive design using Tailwind CSS, that can lead to a 30% increase in users via mobiles and also leveraged Redux to efficiently manage the application state, that will result in a 15% improvement in overall application performance.
